@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, sou a Maria Eduarda Mueller!  <br>
 
-<!--
-**MariaEduardaMueller/MariaEduardaMueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 Sou do Rio Grande do Sul, Brasil  <br>
+🗓️ Tenho 20 anos  <br>
+🏫 Faculdade de Engenharia de Computação em andamento - 5° semestre na UNISC 🌟  <br>
+🌐 Inglês Intermediário <br>
+✏️ Buscando sempre aprender mais e a colocar minhas ideias em vigor!
+ <br> 
+### Experiência 💼 
+Fui bolsista na Compass UOL no Programa de Bolsas de Engenharia de Dados | 12/2024 - 05/2025 <br>
+- Nele utilizei os serviços AWS (Lambda, Glue, Athena, S3, QuickSight, etc) para ingestão, processamento, análise e visualização de dados retirados de uma API. Além disso, adquiri e aprimorei meus
+conhecimentos sobre ferramentas/linguagens como Apache Spark, Docker, Python e SQL durante o período do estágio.
+- Para conferir detalhes do projeto desenvolvido na bolsa [clique aqui](). <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades Técnicas 💻
+Linguagens: Python, SQL, Java, C <br>
+Banco de Dados: Mysql, PostgreSQL, SQL <br>
+Visualização de Dados: Power BI, QuickSight <br>
+Serviços AWS: Lambda, Glue, Athena, QuickSight, S3, Lake Formation <br>
+Ferramentas: Docker, Git, Github, Apache Spark <br>
