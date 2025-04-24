@@ -10,7 +10,7 @@
 Fui bolsista na Compass UOL no Programa de Bolsas de Engenharia de Dados | 12/2024 - 05/2025 <br>
 - Nele utilizei os serviços AWS (Lambda, Glue, Athena, S3, QuickSight, etc) para ingestão, processamento, análise e visualização de dados retirados de uma API. Além disso, adquiri e aprimorei meus
 conhecimentos sobre ferramentas/linguagens como Apache Spark, Docker, Python e SQL durante o período do estágio.
-- Para conferir detalhes do projeto desenvolvido na bolsa [clique aqui](). <br>
+- Para conferir detalhes do projeto desenvolvido na bolsa [clique aqui](https://github.com/MariaEduardaMueller/Projetos/blob/main/ProgramadeBolsas.md). <br>
 
 ### Habilidades Técnicas 💻
 Linguagens: Python, SQL, Java, C <br>
