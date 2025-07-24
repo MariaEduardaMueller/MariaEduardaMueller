@@ -19,7 +19,7 @@ conhecimentos sobre ferramentas/linguagens como Apache Spark, Docker, Python e S
 Possuo conhecimento em diversas linguagens de programação, além de especialização na área de dados, utilizando ferramentas como **Power BI** e **Amazon QuickSight**. Tenho experiência com aplicações de gerenciamento de banco de dados como **DBeaver** e **pgAdmin**, além de conhecimento em bancos relacionais, incluindo **PostgreSQL** e **MySQL**.
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=,docker,postgres,aws,git,mysql,python,java,c,github,sqlite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,docker,github,git,python,java,c,mysql,postgres,sqlite)](https://skillicons.dev)
   
 </div>
 <!-- Linguagens: Python, SQL, Java, C <br>
