@@ -7,8 +7,10 @@
 <h2>💼 Experiência</h2>
 
 #### **Analista de Dados | Estágio** (_06/2025 - O momento_)
-- Utilização de SQL e Power BI para a análise e criação de dashboards para clientes. <br> 
-
+- Experiência com Banco de Dados, ERPs e Power BI. <br>
+- Análise de dados oriundos de diferentes fontes, como planilhas, APIs e Banco de Dados. <br>
+- Utilização de SQL e Power BI para a análise e criação de dashboards com insights valiosos para clientes. <br> 
+- Revisão e correção de erros em telas já existentes, tanto quanto a implementação de novas análises a pedido do cliente. <br>
 #### **AWS Cloud Data Engineering | Scholarship** (_12/2024 - 05/2025_)
 - Utilização de serviços AWS (Lambda, Glue, Athena, S3, QuickSight, etc) para ingestão, processamento, análise e visualização de dados retirados de uma API. Além disso, adquiri e aprimorei meus
 conhecimentos sobre ferramentas/linguagens como Apache Spark, Docker, Python e SQL durante o período do estágio.
