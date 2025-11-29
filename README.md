@@ -1,12 +1,12 @@
 ## Olá, sou a Maria Eduarda Mueller!  <br>
-📊 Estagiária como Analista de Dados na $${\color{lightblue}Analítica \space 3M}$$! <br>
-🏫 Faculdade de Engenharia de Computação em andamento - 5° semestre na UNISC 🌟  <br>
+📊 Experiência como Estagiária de Análise e Engenharia de Dados! <br>
+🏫 Faculdade de Engenharia de Computação em andamento - 6° semestre na UNISC 🌟  <br>
 🌐 Inglês Intermediário <br>
 ✏️ Buscando sempre aprender mais e a colocar minhas ideias em vigor!
  <br> 
 <h2>💼 Experiência</h2>
 
-#### **Analista de Dados | Estágio** (_06/2025 - O momento_)
+#### **Analista de Dados | Estágio** (_06/2025 - 10/2025_)
 - Experiência com Banco de Dados, ERPs e Power BI. <br>
 - Análise de dados oriundos de diferentes fontes, como planilhas, APIs e Banco de Dados. <br>
 - Utilização de SQL e Power BI para a análise e criação de dashboards com insights valiosos para clientes. <br> 
