@@ -1,24 +1,34 @@
 ## Olá, sou a Maria Eduarda Mueller!  <br>
-📊 Experiência como Estagiária de Análise e Engenharia de Dados! <br>
+📊 Experiência como Estagiária de Análise e Engenharia de Dados e QA! <br>
 🏫 Faculdade de Engenharia de Computação em andamento - 7° semestre na UNISC 🌟  <br>
 🌐 Inglês Avançado <br>
+🤖 Conhecimento e experiência com Inteligência Artificial <br>
 ✏️ Buscando sempre aprender mais e a colocar minhas ideias em vigor!
  <br> 
 <h2>💼 Experiência Profissional</h2>
+
+#### **Analista de Qualidade e Testes com IA | Estágio** (_08/2026 - Em andamento_)
+- Fundamentos de Qualidade de Software (QA) e Ciclo de Vida de Desenvolvimento de Software (SDLC);
+- Testes manuais, documentação e reporte de defeitos;
+- Testes de APIs REST utilizando Postman;
+- Uso do AWS Bedrock, Pytest e Amazon Q Developer para desenvolvimento e automação assistidos por IA;
+- Aplicação de práticas de Quality Engineering com suporte de Inteligência Artificial.
+- Para conferir os projetos desenvolvidos até o momento [clique aqui](https://github.com/MariaEduardaMueller/Desafio_CosmeticBot). <br>
+
 
 #### **Analista de Dados | Estágio** (_06/2025 - 10/2025_)
 - Experiência com Banco de Dados, ERPs e Power BI. <br>
 - Análise de dados oriundos de diferentes fontes, como planilhas, APIs e Banco de Dados. <br>
 - Utilização de SQL e Power BI para a análise e criação de dashboards com insights valiosos para clientes. <br> 
 - Revisão e correção de erros em telas já existentes, tanto quanto a implementação de novas análises a pedido do cliente. <br>
-#### **AWS Cloud Data Engineering | Scholarship** (_12/2024 - 05/2025_)
+#### **AWS Cloud Data Engineering | Estágio** (_12/2024 - 05/2025_)
 - Utilização de serviços AWS (Lambda, Glue, Athena, S3, QuickSight, etc) para ingestão, processamento, análise e visualização de dados retirados de uma API. Além disso, adquiri e aprimorei meus
 conhecimentos sobre ferramentas/linguagens como Apache Spark, Docker, Python e SQL durante o período do estágio.
 - Para conferir detalhes do projeto desenvolvido na bolsa [clique aqui](https://github.com/MariaEduardaMueller/Projetos/blob/main/ProgramadeBolsas.md). <br>
 
 <h2>💻 Habilidades Técnicas</h2>
 
-Possuo conhecimento em diversas linguagens de programação, além de especialização na área de dados, utilizando ferramentas como **Power BI** e **Amazon QuickSight**. Tenho experiência com aplicações de gerenciamento de banco de dados como **DBeaver** e **pgAdmin**, além de conhecimento em bancos relacionais, incluindo **PostgreSQL** e **MySQL**.
+Possuo conhecimento em diversas linguagens de programação, além de especialização na área de dados e QA. Tenho experiência com o uso de inteligência de IA para a criação de chatbots e para automação, utilizando tanto IA local como por chave de API. 
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=aws,docker,github,git,python,java,c,mysql,postgres,sqlite)](https://skillicons.dev)
