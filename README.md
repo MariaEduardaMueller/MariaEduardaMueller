@@ -1,6 +1,6 @@
 ## Olá, sou a Maria Eduarda Mueller!  <br>
 📊 Experiência como Estagiária de Análise e Engenharia de Dados e QA! <br>
-🏫 Faculdade de Engenharia de Computação em andamento - 7° semestre na UNISC 🌟  <br>
+🏫 Faculdade de Engenharia de Computação em andamento - 8° semestre na UNISC 🌟  <br>
 🌐 Inglês Avançado <br>
 🤖 Conhecimento e experiência com Inteligência Artificial <br>
 ✏️ Buscando sempre aprender mais e a colocar minhas ideias em vigor!
